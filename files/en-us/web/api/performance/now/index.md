@@ -48,7 +48,7 @@ None.
 
 ### Return value
 
-None ({{jsxref("undefined")}}).
+A {{domxref("DOMHighResTimeStamp")}} value representing the milliseconds elapsed since {{domxref("Performance.timeOrigin")}}.
 
 ## Examples
 
